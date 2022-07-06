@@ -1,0 +1,4 @@
+asgiref==3.3.1 #or above
+Django==3.1.14 #or above
+pytz==2020.5  # or above
+sqlparse==0.4.2 #or above
